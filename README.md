@@ -23,6 +23,7 @@ Clone o repositório:
 git clone 
 
 
+
 Ambiente: Coloque a pasta sprint_manager dentro do htdocs do seu MAMP.
 
 Banco de Dados:
@@ -51,5 +52,7 @@ CPF: 00000000000
 
 Senha: admin123
 
+Membros da Dupla
 
 Fred Williams Silva Barbosa de Oliveira Junior
+
