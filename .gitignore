@@ -1,0 +1,20 @@
+Arquivos de configuração local
+
+config.local.php
+
+Arquivos de sistema do macOS
+
+.DS_Store
+
+Arquivos de sistema do Windows
+
+Thumbs.db
+
+Pastas de dependências
+
+/vendor/
+/node_modules/
+
+Logs do MAMP
+
+*.log
