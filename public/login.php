@@ -78,12 +78,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 
         <form class="mt-8 space-y-6" action="login.php" method="POST">
-            <!-- 
-                *** CORREÇÃO AQUI ***
-                O erro estava aqui. Eu tinha um <div> a mais envolvendo o input do CPF
-                que não deveria existir. Agora está correto, com os dois inputs
-                diretamente dentro do div principal.
-            -->
             <div class="-space-y-px rounded-md shadow-sm">
                 
                 <div>
